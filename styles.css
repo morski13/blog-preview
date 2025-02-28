@@ -3,7 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family: "Figtree", sans-serif;
+    font-family:'Figtree-Regular';
     align-items: center;
     justify-content: center;
 }
@@ -44,8 +44,9 @@ body{
 
 p{
     color: hsl(0, 0%, 42%);
-    font-size: small;
+    font-size: smaller;
     align-self: baseline;
+    margin-top: 5px;
 }
 
 h1{
@@ -56,10 +57,10 @@ h1{
 .author-name{
     align-self: baseline;
     font-weight: 800;
-    font-size: small;
+    font-size: smaller;
 }
 
 .date{
     align-self: baseline;
-    font-size: small;
+    font-size: smaller;
 }
