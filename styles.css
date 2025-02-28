@@ -15,7 +15,6 @@ body{
     width: 20%;
     height: 25%;
     padding: 10px;
-    margin-bottom: 10px;
     border-color: black;
     border-top: 2px solid black; /* Dodajemo boju za border-top */
     border-left: 2px solid black; /* Dodajemo boju za border-left */
@@ -29,7 +28,7 @@ body{
 
 .learning{
     background-color: hsl(47, 88%, 63%);
-    font-weight: 800;
+    font-weight: 700;
     padding: 2%;
     width: fit-content;
     font-size: smaller;
@@ -41,6 +40,7 @@ body{
     border-radius: 10px;
     max-width: 70%;
     max-height: 70%;
+    padding: 10px;
 }
 
 p{
