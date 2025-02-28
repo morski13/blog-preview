@@ -12,6 +12,8 @@ body{
 .card {
     text-align: center;
     background-color: white;
+    width: 25%;
+    height: 30%;
     padding: 20px;
     border-color: black;
     border-top: 5px solid black; /* Dodajemo boju za border-top */
