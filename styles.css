@@ -15,10 +15,8 @@ body{
     padding: 10px;
     border-color: black;
     border: 2px solid black;
-    box-shadow: 5px 0px 0px  black;
+    box-shadow: 10px 5px 5px red;
     border-radius: 10px;
-    
-    
 }
 
 
@@ -29,6 +27,7 @@ body{
     width: fit-content;
     font-size: x-small;
     border-radius: 3px;
+    margin-bottom: 5px;;
 }
 
 .illustration{
@@ -37,7 +36,6 @@ body{
     max-width: 90%;
     max-height: 90%;
     padding: 10px;
-    margin-bottom: 10px;
 }
 
 p{
@@ -59,7 +57,7 @@ h1{
 .author-name{
     justify-content: center;
     align-self: center;
-    font-weight: 700;
+    font-weight: 800;
     font-size: x-small;
     
 }
