@@ -12,9 +12,10 @@ body{
 .card {
     text-align: center;
     background-color: white;
-    width: 25%;
-    height: 30%;
-    padding: 20px;
+    width: 15%;
+    height: 20%;
+    padding: 10px;
+    margin-bottom: 10px;
     border-color: black;
     border-top: 2px solid black; /* Dodajemo boju za border-top */
     border-left: 2px solid black; /* Dodajemo boju za border-left */
