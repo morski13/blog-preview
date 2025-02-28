@@ -16,11 +16,12 @@ body{
     height: 30%;
     padding: 20px;
     border-color: black;
-    border-top: 5px solid black; /* Dodajemo boju za border-top */
-    border-left: 5px solid black; /* Dodajemo boju za border-left */
-    border-bottom: 15px solid black; /* Dodajemo boju za border-bottom */
+    border-top: 2px solid black; /* Dodajemo boju za border-top */
+    border-left: 2px solid black; /* Dodajemo boju za border-left */
+    border-bottom: 8px solid black; /* Dodajemo boju za border-bottom */
+    border-right: 8px solid black; /* Dodajemo boju za border-right */
     border-radius: 10px;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.2); /* Senka koja stvara 3D efekat */
+    
 }
 
 
