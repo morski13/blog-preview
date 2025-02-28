@@ -64,6 +64,11 @@ h1{
     font-size: smaller;
 }
 
+.author-image{
+    width: 50%;
+    height: 50%;
+}
+
 .date{
     align-self: baseline;
     font-size: smaller;
