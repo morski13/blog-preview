@@ -3,7 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family:'Figtree-Regular';
+    font-family:"Figtree-Regular", serif;
     align-items: center;
     justify-content: center;
 }
@@ -54,6 +54,10 @@ h1{
     align-self: baseline;
 }
 
+.author{
+    align-items: baseline;
+}
+
 .author-name{
     align-self: baseline;
     font-weight: 800;
@@ -63,4 +67,5 @@ h1{
 .date{
     align-self: baseline;
     font-size: smaller;
+    margin-top: 5px;
 }
