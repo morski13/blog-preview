@@ -37,10 +37,11 @@ body{
 
 .illustration{
     align-self: center;
-    border-radius: 10px;
+    border-radius: 20px;
     max-width: 90%;
     max-height: 90%;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 p{
