@@ -3,7 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family: "Figtree-Regular";
+    font-family: "Figtree", sans-serif;
     
 }
 
