@@ -6,6 +6,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     font-family: 'Figtree', sans-serif;
+    
 }
 
 .card{
@@ -19,7 +20,9 @@ body{
 .learning{
     background-color: hsl(47, 88%, 63%);
     font-weight: 800;
+    padding: 10%;
     width: fit-content;
+    font-size: small;
 }
 
 .illustration{
@@ -28,8 +31,18 @@ body{
 
 p{
     color: hsl(0, 0%, 42%);
+    font-size: small;
+}
+
+h1{
+    font-size: large;
 }
 
 .author-name{
     font-weight: 800;
+    font-size: small;
+}
+
+.date{
+    font-size: small;
 }
