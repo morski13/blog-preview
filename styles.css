@@ -44,7 +44,7 @@ body{
 
 p{
     color: hsl(0, 0%, 42%);
-    font-size: smaller;
+    font-size: x-small;
     align-self: baseline;
     margin-top: 5px;
 }
@@ -59,10 +59,11 @@ h1{
 }
 
 .author-name{
-    align-self: baseline;
+    justify-content: center;
+    align-self: center;
     font-weight: 700;
-    font-size: smaller;
-    margin-right: 5px;
+    font-size: x-small;
+    
 }
 
 .author-image{
@@ -70,10 +71,11 @@ h1{
     height: 10%;
     justify-content: center;
     align-self: center;
+    margin-right: 5px;
 }
 
 .date{
     align-self: baseline;
-    font-size: smaller;
+    font-size: x-small;
     margin-top: 5px;
 }
