@@ -39,8 +39,8 @@ body{
 .illustration{
     align-self: center;
     border-radius: 10px;
-    max-width: fit-content;
-    max-height: fit-content;
+    max-width: 70%;
+    max-height: 70%;
 }
 
 p{
