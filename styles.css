@@ -14,10 +14,10 @@ body{
     background-color: white;
     padding: 20px;
     border-radius: 10px;
-    border-top: 1%, black solid ;
-    border-left: 1%, black solid ;
-    border-right: 5%, black solid ;
-    border-bottom: 5%, black solid;
+    border-color: black;
+    border-top: 5px;
+    border-left: 5px;
+    border-bottom: 15px;
 }
 
 .learning{
