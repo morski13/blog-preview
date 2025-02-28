@@ -43,6 +43,7 @@ p{
     font-size: x-small;
     align-self: baseline;
     margin-top: 5px;
+    column-gap: 3px;
 }
 
 h1{
@@ -73,5 +74,5 @@ h1{
 .date{
     align-self: baseline;
     font-size: x-small;
-    margin-top: 5px;
+    margin-top: 10px;
 }
