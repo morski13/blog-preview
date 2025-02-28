@@ -4,11 +4,11 @@ body{
     flex-direction: column;
     min-height: 100vh;
     font-family: "Figtree", sans-serif;
-    align-items: center;;
+    align-items: center;
+    justify-content: center;
 }
 
 .card {
-    text-align: center;
     background-color: white;
     width: 20%;
     height: 25%;
