@@ -14,12 +14,10 @@ body{
     height: 20%;
     padding: 10px;
     border-color: black;
-    border-top: 2px solid black; /* Dodajemo boju za border-top */
-    border-left: 2px solid black; /* Dodajemo boju za border-left */
-    border-bottom: 8px solid black; /* Dodajemo boju za border-bottom */
-    border-right: 8px solid black; /* Dodajemo boju za border-right */
+    border: 2px solid black;
+    box-shadow: 5px 0px 0px  black;
     border-radius: 10px;
-    outline-offset: 5px;
+    
     
 }
 
@@ -29,7 +27,7 @@ body{
     font-weight: 700;
     padding: 2%;
     width: fit-content;
-    font-size: smaller;
+    font-size: x-small;
     border-radius: 3px;
 }
 
