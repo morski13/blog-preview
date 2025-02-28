@@ -9,16 +9,18 @@ body{
     
 }
 
-.card{
+.card {
     text-align: center;
     background-color: white;
     padding: 20px;
-    border-radius: 10px;
     border-color: black;
-    border-top: 5px;
-    border-left: 5px;
-    border-bottom: 15px;
+    border-top: 5px solid black; /* Dodajemo boju za border-top */
+    border-left: 5px solid black; /* Dodajemo boju za border-left */
+    border-bottom: 15px solid black; /* Dodajemo boju za border-bottom */
+    border-radius: 10px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.2); /* Senka koja stvara 3D efekat */
 }
+
 
 .learning{
     background-color: hsl(47, 88%, 63%);
